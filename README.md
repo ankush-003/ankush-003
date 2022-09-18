@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankush-003
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently doing B.Tech Computer Science Engineering at PES University
+- 🌱 I’m currently pursuing B.Tech Computer Science Engineering at PES University
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me:
 - Instagram : https://www.instagram.com/ankush.2.9/

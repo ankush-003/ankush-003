@@ -8,9 +8,9 @@
 - Linkedn : https://www.linkedin.com/in/ankush-h-v-14901a224/
 - Email : anshhv2003@gmail.com
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+[![Twitter][1.1]][1]
+[![Facebook][2.1]][2]
+[![Github][3.1]][3]
 
 <!-- icons links -->
 [1.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png

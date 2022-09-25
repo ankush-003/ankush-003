@@ -7,18 +7,14 @@
 - Facebook : https://www.facebook.com/ankush.hv/
 - Linkedn : https://www.linkedin.com/in/ankush-h-v-14901a224/
 - Email : anshhv2003@gmail.com
+---
+### 📫Connect with me on:
+<a href="https://twitter.com/9f49bd1f004745a"><img height="40px" width="auto" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter"></a>
+<a href="https://www.facebook.com/ankush.hv"><img height="40px" width="auto" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"></a>
+<a href="https://www.facebook.com/ankush.hv"><img height="40px" width="auto" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"></a>
+<a href="https://www.facebook.com/ankush.hv"><img height="40px" width="auto" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIN"></a>
+<a href="http://www.github.com/carlsednaoui"><img height="40px" width="auto" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" alt="GitHub"></a>
 
-[![Twitter][1.1]][1]
-[![Facebook][2.1]][2]
-[![Github][3.1]][3]
-
-<!-- icons links -->
-[1.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png
-[2.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png
-[3.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png
-[1]: https://twitter.com/9f49bd1f004745a
-[2]: https://www.facebook.com/ankush.hv
-[3]: http://www.github.com/carlsednaoui
 <!---
 ankush-003/ankush-003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

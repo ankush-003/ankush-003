@@ -13,7 +13,7 @@
 [![alt text][3.1]][3]
 
 <!-- icons links -->
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: https://cdn-icons-png.flaticon.com/512/733/733553.png
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 [1]: https://twitter.com/9f49bd1f004745a

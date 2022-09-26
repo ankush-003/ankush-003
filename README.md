@@ -9,6 +9,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### :technologist: Learning :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="React" width="40" height="40"/>&nbsp;
+</div>
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

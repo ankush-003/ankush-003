@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankush</h1>
+# Hi 👋, I'm Ankush
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing B.Tech Computer Science Engineering at PES University
 - 💞️ I’m looking to collaborate on anything 

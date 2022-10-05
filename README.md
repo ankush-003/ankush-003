@@ -1,5 +1,5 @@
 <!-- Do not copy this file, i'll personally find you and beat the shit out of you! -->
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="40" height="40"/>&nbsp; I'm Ankush
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=54&pause=1000&color=F76D15&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ankush;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
 - 🌐 I’m interested in Web Development </br>
 - 🌱 I’m currently pursuing B.Tech Computer Science Engineering at PES University </br>
 - 📬 anshhv2003@gmail.com

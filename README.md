@@ -1,4 +1,4 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="40" height="40"/>&nbsp;, I'm Ankush
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="40" height="40"/>&nbsp; I'm Ankush
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing B.Tech Computer Science Engineering at PES University
 - 💞️ I’m looking to collaborate on anything 

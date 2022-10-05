@@ -1,13 +1,12 @@
+<!-- Do not copy this file, i'll personally find you and beat the shit out of you! -->
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋" width="40" height="40"/>&nbsp; I'm Ankush
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently pursuing B.Tech Computer Science Engineering at PES University
-- 💞️ I’m looking to collaborate on anything 
-- Email : anshhv2003@gmail.com
+- 🌐 I’m interested in Web Development </br>
+- 🌱 I’m currently pursuing B.Tech Computer Science Engineering at PES University </br>
+- 📬 anshhv2003@gmail.com
 ---
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000)](https://git.io/streak-stats)</br>
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
-![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankush-003&theme=tokyonight)</br>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
+![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankush-003&theme=dracula)</br>
 [![Ankush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankush-003&bg_color=000000&color=ffffff&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
@@ -33,12 +32,25 @@
 
 ---
 ### 📫 Connect with me on:
-<a href="https://twitter.com/9f49bd1f004745a"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter"></a>&nbsp;
-<a href="https://www.facebook.com/ankush.hv"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"></a>&nbsp;
-<a href="https://www.instagram.com/ankush.2.9/"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"></a>&nbsp;
-<a href="https://www.linkedin.com/in/ankush-h-v-14901a224"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIN"></a>&nbsp;
-<a href="http://www.github.com/ankush-003"><img height="40px" width="40" src ="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" alt="GitHub"></a>
 
+<div align="center">
+<a href="https://github.com/ankush-003" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/9f49bd1f004745a" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ankush-h-v-14901a224" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/ankush.hv" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ankush.2.9" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 <!---
 ankush-003/ankush-003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

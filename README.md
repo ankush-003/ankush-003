@@ -7,8 +7,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;
 ![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=ankush-003&theme=dracula)</br>
+<!-- Currently not working
 [![Ankush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankush-003&bg_color=000000&color=ffffff&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 ---
 ### :technologist: Learning :
 <div>

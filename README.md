@@ -77,7 +77,7 @@
 </a>  
 </div>  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ankush-003.ankush-003)
+![visitors](https://komarev.com/ghpvc/?username=ankush-003&color=orange)
 <!---
 ankush-003/ankush-003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -5,7 +5,7 @@
 - #### 📬 anshhv2003@gmail.com
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats :
-<div style="display:flex;gap:2;">
+<div style="display:flex;gap:2;flex-direction: column;">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000" alt="streak" />
 <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ankush-003&theme=dracula" />
 </div>

@@ -7,8 +7,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats :
 <div style="display:flex;gap:4;flex-direction:column;flex-wrap:wrap;justify-content:center;">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000" alt="streak"/>
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ankush-003&theme=vision-friendly-dark&show_icons=true&rank_icon=github" />
-  <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-003&theme=vision-friendly-dark&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=9&hide_progress=true" />
+  <img height=200 alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ankush-003&theme=vision-friendly-dark&show_icons=true&rank_icon=github" />
+  <img alt="github lang stats" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-003&theme=vision-friendly-dark&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=9&hide_progress=true" />
 </div>
 </br>
 <!-- Currently not working

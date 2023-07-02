@@ -1,13 +1,14 @@
 <!-- Do not copy this file, i'll personally find you and beat the shit out of you! -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=54&pause=1000&color=F76D15&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B+I'm+Ankush;Welcome+To+My+GitHub+Profile)](https://git.io/typing-svg)
-- #### 🌐 I’m interested in **Web Development** and **Machine Learning** </br>
-- #### 🌱 I’m currently pursuing **B.Tech Computer Science Engineering** at **PES University** </br>
-- #### 📬 anshhv2003@gmail.com
+- 🌐 I’m interested in **Web Development** and **Machine Learning** 
+- 🌱 I’m currently pursuing **B.Tech Computer Science Engineering** at **PES University** 
+- 📬 anshhv2003@gmail.com
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats :
-<div style="display:flex;gap:2;flex-direction: column;">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000" alt="streak" />
-<img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ankush-003&theme=dracula" />
+<div style="display:flex;gap:2;flex-direction:column;flex-wrap:wrap;justify-content:center;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=ankush-003&theme=dark&background=000000" alt="streak" align="center"/>
+  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ankush-003&theme=vision-friendly-dark&show_icons=true&rank_icon=github" align="center" />
+  <img alt="github lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-003&theme=vision-friendly-dark&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=9&hide_progress=true" align="center" />
 </div>
 </br>
 <!-- Currently not working

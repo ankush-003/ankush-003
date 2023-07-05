@@ -11,6 +11,10 @@
   <img height=200 alt="github stats" src="https://github-readme-stats.vercel.app/api?username=ankush-003&theme=vision-friendly-dark&show_icons=true&rank_icon=github" />
   <img alt="github lang stats" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-003&theme=vision-friendly-dark&show_icons=true&size_weight=0.5&count_weight=0.5&langs_count=9&hide_progress=true" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </br>
 <!-- Currently not working
 [![Ankush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankush-003&bg_color=000000&color=ffffff&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

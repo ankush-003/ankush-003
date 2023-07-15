@@ -3,6 +3,8 @@
 - 🌐 I’m interested in **Web Development** and **Machine Learning** 
 - 🌱 I’m currently pursuing **B.Tech Computer Science Engineering** at **PES University** 
 - 📚 Read my blogs: [Ankush's Dev Diary](https://ankush003.hashnode.dev/)
+- [🤗 Repository](https://huggingface.co/ankush-003)
+- [DockerHub](https://hub.docker.com/u/ankush003)
 - 📬 anshhv2003@gmail.com
 ---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Stats :

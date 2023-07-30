@@ -8,20 +8,12 @@ on:
   schedule:
     - cron: '30 18 * * *'# runs at every 12AM IST
 jobs:
-#   update-readme:
-#     name: WakaReadme DevMetrics
-#     runs-on: ubuntu-latest
-#     steps:
-#       - uses: athul/waka-readme@master
-#         with:
-#           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-#           SHOW_TITLE: true
-#           TIME_RANGE: all_time
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
+          SHOW_TITLE: true
+          TIME_RANGE: all_time

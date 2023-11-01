@@ -17,13 +17,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2023 - To: 30 October 2023
+From: 01 July 2023 - To: 31 October 2023
 
-Python           18 hrs 41 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
-TypeScript       17 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   24.48 %
-C++              10 hrs 43 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-JavaScript       10 hrs 14 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
-Markdown         1 hr 58 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Python           18 hrs 55 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
+TypeScript       17 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   24.39 %
+C++              10 hrs 43 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+JavaScript       10 hrs 14 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Markdown         1 hr 58 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->

@@ -1,5 +1,5 @@
 <!-- Do not copy this file, i'll personally find you and beat the shit out of you! -->
-[![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A62F&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B+I'm+Ankush;Web+Developer+%F0%9F%8C%90;ML+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=45&pause=1000&color=F7A62F&center=true&vCenter=true&random=false&width=620&height=60&lines=Hi+There+%F0%9F%91%8B+I'm+Ankush;Web+Developer+%F0%9F%8C%90;ML+Enthusiast+%F0%9F%A7%A0)](https://git.io/typing-svg)
 - 🌐 I’m interested in **Web Development** and **Machine Learning** 
 - 🌱 I’m currently pursuing **B.Tech Computer Science Engineering** at **PES University** 
 - 📚 Read my blogs: [Ankush's Dev Diary](https://ankush003.hashnode.dev/)

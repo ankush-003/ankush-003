@@ -17,7 +17,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 July 2023 - To: 16 May 2024
+From: 01 July 2023 - To: 17 May 2024
 
 TypeScript        62 hrs 56 mins  ███████▒░░░░░░░░░░░░░░░░░   29.59 %
 Java              52 hrs 9 mins   ██████░░░░░░░░░░░░░░░░░░░   24.52 %

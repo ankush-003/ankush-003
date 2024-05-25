@@ -33,6 +33,9 @@ C++               14 hrs 54 mins  █▓░░░░░░░░░░░░░�
 [![Ankush's github activity graph](https://activity-graph.herokuapp.com/graph?username=ankush-003&bg_color=000000&color=ffffff&line=ffffff&point=ff7800&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
+<img src="https://github-profile-trophy.vercel.app/?username=ankush-003&theme=darkhub&margin-w=15&margin-h=15" />
+
+
 ### :technologist: Learning :
 <div>
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)" title="Dart" alt="Dart"/>
